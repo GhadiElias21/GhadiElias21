@@ -5,17 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghadielias21&label=Profile%20views&color=0e75b6&style=flat" alt="ghadielias21" /> </p>
 
-- 🔭 I’m currently working on **store project**
-
-- 🌱 I’m currently learning **NODE.JS**
+- 🔭 I’m currently working on **building my knowledge**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GhadiElias21?tab=repositories](https://github.com/GhadiElias21?tab=repositories)
 
-- 💬 Ask me about **REACT,JAVASCRIPT,NODE.JS**
+- 💬 Ask me about **REACT,JAVASCRIPT,NODE.JS,MONGOOSE**
 
 - 📫 How to reach me **gh8adi_elias@outlook.com**
 
-- ⚡ Fun fact **i think i am funny sometimes**
+- ⚡ Fun fact **i think YOU should hire me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
