@@ -9,15 +9,15 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/GhadiElias21?tab=repositories](https://github.com/GhadiElias21?tab=repositories)
 
+- 👨‍💻  my portfolio preview is available at [https://ghadiportfolio.netlify.app/](https://ghadiportfolio.netlify.app/)
+
 - 💬 Ask me about **REACT,JAVASCRIPT,NODE.JS,MONGOOSE**
 
 - 📫 How to reach me **gh8adi_elias@outlook.com**
 
 - ⚡ Fun fact **i think YOU should hire me**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href='https://ghadiportfolio.netlify.app/' target="blank"></a>
-</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href='https://www.linkedin.com/in/ghadi-elias-411812227' target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghadi elias" height="30" width="40" /></a>
